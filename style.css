@@ -1,4 +1,20 @@
 body{
     color: deeppink
-    blackground:white 
+    background-color: white; 
+}
+
+header{
+    border-bottom: solid 2px white (255,255,255);
+    padding: 20xp;
+    font-size: 32xp; 
+    color:hotpink (255,105,180);
+}
+
+section{
+    background-color: black (255,0,0);
+    padding-top: 80xp;
+    padding-bottom: 80xp;
+    display: flex;
+    justify-content: center;
+
 }
